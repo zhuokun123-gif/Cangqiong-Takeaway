@@ -14,12 +14,6 @@ experience:
     middleware loading scenarios.
 4.  Practical development best practices and experience.
 
-------------------------------------------------------------------------
-
-## Requirements Documentation
-
-Sky Take-Out (apifox.com)\
-https://apifox.com/apidoc/shared-93dd7a4f-adbc-4d2b-b6f5-24976908bc1c
 
 ------------------------------------------------------------------------
 
